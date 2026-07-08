@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Yusuf Öztürk
 
-<!--
-**yusufozturkdev-sudo/yusufozturkdev-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student, currently focusing on cybersecurity — specifically **penetration testing**.
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- Strengthening my Networking & Linux fundamentals
+- Building security tools with Python
+- Preparing to contribute to an open-source security project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Web Application Security (OWASP Top 10)
+- Network Penetration Testing
+- Active Directory Security
+
+🏆 English: B1 Level (English Preparatory School)
+
+📫 Reach me at: yusufozturk.dev@gmail.com
+
+---
+
+### 🛠️ Languages & Technologies
+`C++` `Java` `C#` `Python` `SQL` `HTML/CSS/JS`
+
+### 🔐 Security & Systems
+`Linux` `Networking Fundamentals` `Git` `Nmap` `Burp Suite`
+
+---
+*This profile is actively updated — follow my cybersecurity journey here.*
+
+
+
