@@ -22,6 +22,7 @@ In summer 2026 I interned at **FMSS Bilişim Teknoloji**, building offline Andro
 | Project | What it does | Built with |
 |---|---|---|
 | [**CineTrack**](https://github.com/yusufozturkdev-sudo/movie-app-android) | Native Android app for finding movies, rating them and keeping a watchlist synced with a TMDB account. Every ViewModel has unit tests, and GitHub Actions runs the tests and a build on each push. | Kotlin, Jetpack Compose, Clean Architecture, Retrofit, Coroutines + Flow, MockK |
+| **TutorTrack**<br><sub>private repo</sub> | Web app for private tutors preparing 8th graders for the LGS exam: question-level exam entry on an optical-form screen, weak-topic analysis, weekly schedule, homework and parent report PDFs, payments and multi-tenant login. In use with real students; code available on request. | Next.js 16, TypeScript, Prisma, SQLite, NextAuth, Tailwind CSS |
 | [**Ercan Airport DB**](https://github.com/yusufozturkdev-sudo/ercan-airport-db) | Relational database for Ercan Airport in North Cyprus: 15 tables, 3 views, 3 triggers, 3 stored procedures and 15 management queries, with ER diagrams and a full report. | MySQL 8, SQL |
 
 ## What I'm working on
