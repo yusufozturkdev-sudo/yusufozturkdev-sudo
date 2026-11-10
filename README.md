@@ -13,7 +13,7 @@
 
 ---
 
-I'm in my fourth year of Software Engineering at Cyprus International University. I'm working toward a career in cybersecurity, mainly penetration testing, and I'm learning cloud alongside it.
+I'm in my fourth year of Software Engineering at Cyprus International University, where I study on a full (100%) scholarship. I'm working toward a career in cybersecurity, mainly penetration testing, and I'm learning cloud alongside it.
 
 In summer 2026 I interned at **FMSS Bilişim Teknoloji**, building offline Android learning games for classroom smartboards in Kotlin and Jetpack Compose. The games ship in Turkish, English, Kiswahili and Arabic with a right-to-left layout, so most of my work was content integration, fixing layout bugs and checking every UI change in each locale.
 
@@ -23,11 +23,21 @@ In summer 2026 I interned at **FMSS Bilişim Teknoloji**, building offline Andro
 |---|---|---|
 | [**CineTrack**](https://github.com/yusufozturkdev-sudo/movie-app-android) | Native Android app for finding movies, rating them and keeping a watchlist synced with a TMDB account. Every ViewModel has unit tests, and GitHub Actions runs the tests and a build on each push. | Kotlin, Jetpack Compose, Clean Architecture, Retrofit, Coroutines + Flow, MockK |
 | **TutorTrack**<br><sub>private repo</sub> | Web app for private tutors preparing 8th graders for the LGS exam: question-level exam entry on an optical-form screen, weak-topic analysis, weekly schedule, homework and parent report PDFs, payments and multi-tenant login. In use with real students; code available on request. | Next.js 16, TypeScript, Prisma, SQLite, NextAuth, Tailwind CSS |
+| **Smart Gym Assistant**<br><sub>course project, team of 2</sub> | Gym management system for SWEN 302 with a three-tier architecture. It includes a login module built with Spring Security, JWT and BCrypt, JUnit 5 unit tests and Selenium UI tests, and requirements and UML designs written to IEEE 830 and ISO/IEC 25010. | Spring Boot 3, Java 17, React, MySQL, JUnit 5, Selenium |
 | [**Ercan Airport DB**](https://github.com/yusufozturkdev-sudo/ercan-airport-db) | Relational database for Ercan Airport in North Cyprus: 15 tables, 3 views, 3 triggers, 3 stored procedures and 15 management queries, with ER diagrams and a full report. | MySQL 8, SQL |
+
+### More projects
+
+- **SpotOn**: a JavaFX reflex game with timeline-driven spawning, levels, score and lives, and parallel path and scale animations
+- **Podcast scheduling system**: a Java and JavaFX app for planning and publishing episodes, with schedule conflict checks, file persistence and custom exceptions
+- **Library automation**: book, loan and member tracking in C# with a SQL database
+- **Task tracker**: a Flutter to-do app for Android and iOS
+- **SDN research report**: a comparative study of Software Defined Networking, written as a team for CMPE332 Computer Networks
 
 ## What I'm working on
 
 - Web application security with the OWASP Top 10
+- An ethical hacking course on Udemy
 - Network penetration testing and Active Directory security
 - Linux and networking in my Kali Linux lab
 - An ESP32 multi-tool watch with NFC, sub-GHz radio and infrared modules, to see how those protocols work on real hardware
@@ -53,6 +63,16 @@ In summer 2026 I interned at **FMSS Bilişim Teknoloji**, building offline Andro
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square)
+
+**Testing**
+
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![MockK](https://img.shields.io/badge/MockK-7F52FF?style=flat-square)
 
 **Security and systems**
 
